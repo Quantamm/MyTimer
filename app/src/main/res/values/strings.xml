@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">MyPomodoro</string>
+    <string-array name="button_names">
+        <item>Break</item>
+        <item>Lunch</item>
+        <item>Meeting</item>
+        <item>Consult</item>
+        <item>Other</item>
+        <item>Defect #1</item>
+        <item>Defect #2</item>
+        <item>Defect #3</item>
+        <item>Stop Working</item>
+    </string-array>
 </resources>
